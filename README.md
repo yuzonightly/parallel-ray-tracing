@@ -1,6 +1,4 @@
-# raytracing-discovery
-
-Goal: use PThreads and MPI to parallelize a simple raytracing algorithm.
+Use PThreads and MPI to parallelize a simple ray tracing algorithm.
 
 ## Run
 
